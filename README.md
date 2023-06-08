@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Husnain Arif], a passionate front-end developer specializing in app development. 📱
+👋 Hi there! I'm Husnain Arif, a passionate front-end developer specializing in app development. 📱
 
 💻 I love crafting delightful user experiences and turning ideas into reality through clean and efficient code.
 
@@ -12,6 +12,6 @@
 
 👨‍💻 I enjoy working in agile and collaborative environments, leveraging version control systems like Git to collaborate effectively with teams.
 
-🌐 Let's connect and build amazing apps together! Feel free to reach out to me at [Your Email] or connect with me on [LinkedIn, Twitter, or other relevant social media platforms].
+🌐 Let's connect and build amazing apps together! Feel free to reach out to me at husnainarif730@gmail.com or connect with me on .
 
 Let's code and create exceptional app experiences! ✨
