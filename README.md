@@ -2,7 +2,7 @@
 
 💻 I love crafting delightful user experiences and turning ideas into reality through clean and efficient code.
 
-🚀 With [1] years of experience, I have honed my skills in front-end technologies such as HTML, CSS, and JavaScript, and I am proficient in frameworks like React Native and Flutter.
+🚀 With 3 years of experience, I have honed my skills in front-end technologies such as HTML, CSS, and JavaScript, and I am proficient in frameworks like React Native and Flutter.
 
 📱 My expertise lies in building cross-platform mobile applications that run seamlessly on iOS and Android devices. I prioritize creating intuitive and visually appealing interfaces that enhance user engagement.
 
